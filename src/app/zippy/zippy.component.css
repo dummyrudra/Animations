@@ -1,0 +1,13 @@
+.zippy {
+  border: 1px solid;
+  padding: 4px;
+  width: 75%;
+}
+.bi {
+  float: right;
+}
+.open-close-container {
+  border: 1px solid #dddddd;
+  margin-top: 1em;
+ 
+}
